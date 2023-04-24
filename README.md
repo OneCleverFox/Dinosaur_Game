@@ -1,1 +1,1 @@
-# Dinosaur_Game
+https://github.com/abhijeetps/Chrome-Dino-Game
